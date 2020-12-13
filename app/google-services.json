@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792336701628",
+    "project_id": "recipe-book-f10b5",
+    "storage_bucket": "recipe-book-f10b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792336701628:android:95b21741bafa1353ec18b9",
+        "android_client_info": {
+          "package_name": "com.example.recipebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792336701628-n2qev31889kmfckssk4e12oun5jgp123.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipebook",
+            "certificate_hash": "fd7186af2b1c7c327c9c33615e30cdba0f337cc7"
+          }
+        },
+        {
+          "client_id": "792336701628-9uf82rim9oe0mc922f306hegljp973th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6HdBOCZJIC6Am3mys6Wtx5EC0ZY0uEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792336701628-9uf82rim9oe0mc922f306hegljp973th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
